@@ -1,0 +1,9 @@
+﻿  Main.cpp
+f:\uni\programacion2\simplelist\simplelist\simplelist\dynamicarray.h(67): warning C4018: '<': signed/unsigned mismatch
+  f:\uni\programacion2\simplelist\simplelist\simplelist\dynamicarray.h(64): note: while compiling class template member function 'void DynamicArray<int>::IncreaseCapacity(void)'
+  f:\uni\programacion2\simplelist\simplelist\simplelist\dynamicarray.h(80): note: see reference to function template instantiation 'void DynamicArray<int>::IncreaseCapacity(void)' being compiled
+  f:\uni\programacion2\simplelist\simplelist\simplelist\main.cpp(8): note: see reference to class template instantiation 'DynamicArray<int>' being compiled
+f:\uni\programacion2\simplelist\simplelist\simplelist\simplelist.h(148): warning C4715: 'SimpleList<int>::operator[]': not all control paths return a value
+f:\uni\programacion2\simplelist\simplelist\simplelist\simplelist.h(110): warning C4715: 'SimpleList<int>::Erase': not all control paths return a value
+  SimpleList.vcxproj -> F:\UNI\Programacion2\SimpleList\SimpleList\Debug\SimpleList.exe
+  SimpleList.vcxproj -> F:\UNI\Programacion2\SimpleList\SimpleList\Debug\SimpleList.pdb (Partial PDB)
